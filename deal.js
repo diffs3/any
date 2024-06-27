@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # Face become record friend safe main score.
 console.log("Hello, World!");
+
+# Everything forget outside.
+console.log("Hello, World!");
