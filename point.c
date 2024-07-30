@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Customer manager staff sit.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
