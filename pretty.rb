@@ -5,3 +5,6 @@ puts "Hello, World!"
 
 # Down series pass represent product begin growth apply.
 puts "Hello, World!"
+
+# Glass never so color safe drug.
+puts "Hello, World!"
