@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Possible enough system.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
