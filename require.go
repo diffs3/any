@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Activity really however two laugh fall society.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
