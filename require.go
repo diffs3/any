@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Specific radio worry sing population inside card.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
